@@ -8,7 +8,7 @@ import { EthereumAuthProvider } from "@self.id/web";
 import { useViewerRecord } from "@self.id/react";
 import { abi, NFT_CONTRACT_ADDRESS } from "../constants";
 import styles from "../styles/Home.module.css";
-
+//learn web3dao
 export default function Home() {
   const [connection, connect, disconnect] = useViewerConnection();
 
